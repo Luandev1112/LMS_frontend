@@ -1,0 +1,45 @@
+/* purgecss start ignore */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* purgecss end ignore */
+@import 'tailwindcss/utilities';
+
+
+body {
+    @apply font-sans;
+}
+
+.min-h-calc {
+    min-height: calc(100vh-80px);
+}
+
+.min-h-400 {
+    min-height: 400px;
+}
+
+.overflow-anchor-none {
+    overflow-anchor: none;
+}
+
+.border-item {
+    border-bottom-width: var(--border-rule-border-width, 1px) !important;
+    border-bottom-color: var(--color-divider, #EBEBEB) !important;
+    border-bottom: 1px solid rgb(235, 235, 235) !important;
+}
+
+.inset-map {
+    right: 0;
+    bottom: 0;
+}
+
+.w-left {
+    width: 840px !important;
+}
+
+.w-right {
+    width: calc(100% - 840px) !important;
+}
+
+.pb-perc {
+    padding-bottom: 56%;
+}
