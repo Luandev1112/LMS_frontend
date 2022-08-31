@@ -49,7 +49,7 @@
     "vuex-persistedstate": "^4.0.0-beta.3"
   },
   "devDependencies": {
-    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@nuxtjs/color-mode": "^2.0.0",
     "@nuxtjs/dotenv": "^1.4.1",
