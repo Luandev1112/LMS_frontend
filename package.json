@@ -17,7 +17,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@headlessui/vue": "^1.6.5",
+    "@headlessui/vue": "^1.6.7",
     "@heroicons/vue": "^2.0.10",
     "@nuxtjs/auth": "^4.9.1",
     "@nuxtjs/axios": "^5.12.2",
