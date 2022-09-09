@@ -68,7 +68,7 @@
     "eslint-plugin-nuxt": "^1.0.0",
     "eslint-plugin-prettier": "^3.4.1",
     "jest": "^29.0.2",
-    "postcss": "^8.4.12",
+    "postcss": "^8.4.16",
     "prettier": "^2.1.2",
     "tailwindcss": "^2.2.4",
     "tailwindcss-dark-mode": "^1.1.7",
