@@ -30,7 +30,7 @@
     "@tailwindcss/typography": "^0.3.1",
     "@tailwindcss/ui": "^0.7.2",
     "ap-style-title-case": "^1.1.2",
-    "cookie-universal-nuxt": "^2.1.4",
+    "cookie-universal-nuxt": "^2.2.2",
     "core-js": "^3.25.1",
     "dotenv": "^16.0.3",
     "gmap-vue": "^3.5.4",
