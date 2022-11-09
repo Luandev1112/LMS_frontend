@@ -12655,10 +12655,10 @@ vary@^1.1.2, vary@~1.1.2:
   resolved "https://registry.yarnpkg.com/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
-vee-validate@^4.6.7:
-  version "4.6.7"
-  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-4.6.7.tgz#d000b43033eb6e48e2b71bc26466f4dfd79e5fd4"
-  integrity sha512-8W9cR/EGqPuHJpodYriAlp5BndQf/IWFifZLyIWeNs7RGB+B0jr50TACjzgtwtp5qE6hgRskOToEhcfhWJdgyw==
+vee-validate@^4.7.2:
+  version "4.7.2"
+  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-4.7.2.tgz#7739ab2ae0d55893a6f45faf551e0ada2dfeca6d"
+  integrity sha512-SbrL1HUzpu6D6Og/Q+BFx0LN6B48Z7OrkvQCXwaRyoELEeWPO6SOx1v5t1Sg3OszNtiLH7Q6BgKj/7pzTK1wIw==
   dependencies:
     "@vue/devtools-api" "^6.1.4"
 
