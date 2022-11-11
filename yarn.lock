@@ -1419,10 +1419,10 @@
   resolved "https://registry.yarnpkg.com/@headlessui/vue/-/vue-1.7.0.tgz#1778422d2969d53ad0e2b59defc9fec88f8ebf04"
   integrity sha512-ClrXMThmo9lrFjHdzDQXsopjCgRA28v+u5s/J+gIAgvS5l3tTAI84GaVghFwxobijL9c6BsVgDQ7SrJ2dS1nLw==
 
-"@heroicons/vue@^2.0.10":
-  version "2.0.10"
-  resolved "https://registry.yarnpkg.com/@heroicons/vue/-/vue-2.0.10.tgz#9de6807b13d77db82f10a652d5ec5c0c00393b54"
-  integrity sha512-K32WvSqsuWQrxqAAGCaTELW6VCOgg7OeVP+VBwCMbyeflnguJlCfHNlJ+0z4aPpgJCWB2RESRy3x59t+2byKSg==
+"@heroicons/vue@^2.0.13":
+  version "2.0.13"
+  resolved "https://registry.yarnpkg.com/@heroicons/vue/-/vue-2.0.13.tgz#974c52abf8dab70e7d2a3a93d7fdadff4a0e9ec2"
+  integrity sha512-vVCVF02+rNKXEmanVNnmktJlxCbOn0qVFP1gfZPn4bcBIwPX3h9AVHGCkwly+IWDEME8w5oooG0KRd2hhSe/HQ==
 
 "@humanwhocodes/config-array@^0.5.0":
   version "0.5.0"
