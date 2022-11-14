@@ -2290,15 +2290,15 @@
     consola "^2.15.3"
     google-fonts-helper "^1.2.0"
 
-"@nuxtjs/prismic@^1.2.4":
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/prismic/-/prismic-1.2.6.tgz#eed99593bc005b0e2e62cb01abfa8c255da1d21b"
-  integrity sha512-I69ZP4Y837spOSIeWcLmlaB1flmOuGYbgv3LzJVKHphewApMafL7JTtIsc5NpgtP47HJyolxrwL4zM9UEpqMuA==
+"@nuxtjs/prismic@^1.4.2":
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/prismic/-/prismic-1.4.2.tgz#abcdcd52a4a124b890a384edd95a6fda9bf504d8"
+  integrity sha512-gP2OUI7nTww1QMWzrStxHF/AMzcTwTSHcyIkJpm8b5grUmn/WKblYRKhSX3iS6Z5CleTrt784G8570cLTV2maw==
   dependencies:
-    "@prismicio/client" "^4.0.0"
-    "@prismicio/vue" "^2.0.9"
+    "@prismicio/client" "^4.0.0 || ^5.1.0"
+    "@prismicio/vue" "^2.1.0"
     consola "^2.15.3"
-    prismic-dom "^2.2.5"
+    prismic-dom "^2.2.6"
 
 "@nuxtjs/proxy@^2.0.1", "@nuxtjs/proxy@^2.1.0":
   version "2.1.0"
@@ -2368,10 +2368,10 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.11.tgz#aeb16f50649a91af79dbe36574b66d0f9e4d9f71"
   integrity sha512-3NsZsJIA/22P3QUyrEDNA2D133H4j224twJrdipXN38dpnIOzAbUDtOwkcJ5pXmn75w7LSQDjA4tO9dm1XlqlA==
 
-"@prismicio/client@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@prismicio/client/-/client-4.0.0.tgz#45e5e8651b72b747ce4e21db04eae0b96139615a"
-  integrity sha512-3rGie+Banm61hOQcKF75+TI8oquVDT2PyX05ho2eRKdiMu0i4raHVJCuIAGBs/CDCuVXes2h/rnfRs+eKfq7XQ==
+"@prismicio/client@^4.0.0 || ^5.1.0":
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/@prismicio/client/-/client-5.1.1.tgz#5aa51c3efcd7fc57a08e729814f16d5cc2755d1c"
+  integrity sha512-0wtQrPZCATBmgLklQYgjSrmz3YtMP+5lHakv30MUVyUez2LVoukhVJWTj1uXwsOz2Yh2xLkAp+PHqTOiUvaM/Q==
   dependencies:
     cross-fetch "^3.0.6"
 
@@ -2385,10 +2385,10 @@
   resolved "https://registry.yarnpkg.com/@prismicio/richtext/-/richtext-1.1.0.tgz#c8769c3d953ae42854a2aba951e3b2121682b8c7"
   integrity sha512-925JuFiZiIkwu9jmlR9O/U8xCSZk/Y6BQDXKpavoVsKo+n90ml1hGdtWkglIupX+ITQO1ZINyDgUgiY1oG9dsA==
 
-"@prismicio/vue@^2.0.9":
-  version "2.0.11"
-  resolved "https://registry.yarnpkg.com/@prismicio/vue/-/vue-2.0.11.tgz#03e10b2badbd897448bb48079cdf38b678dc0103"
-  integrity sha512-GVphn9svLs2Lu+FR9XACGPPxXOS3lNoOH15xOMJnKB9Yfj6BiMpzWNwsNUqB1EFOYw8kjqUSNfHqhMvloJW6oQ==
+"@prismicio/vue@^2.1.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@prismicio/vue/-/vue-2.2.0.tgz#17144e0ede2efa5c4818e97eeeef95da0c13396f"
+  integrity sha512-k5WZor+XaNvmwBHbTL1phb/i+9VKNxvFgdaWYJpSqJVUyDaAQeuRFxt1pWuGGKGLsgf/SmiBvN84KX8QkfjZaw==
 
 "@rollup/pluginutils@^4.2.1":
   version "4.2.1"
@@ -10403,10 +10403,10 @@ pretty-time@^1.1.0:
   resolved "https://registry.yarnpkg.com/pretty-time/-/pretty-time-1.1.0.tgz#ffb7429afabb8535c346a34e41873adf3d74dd0e"
   integrity sha512-28iF6xPQrP8Oa6uxE6a1biz+lWeTOAPKggvjB8HAs6nVMKZwf5bG++632Dx614hIWgUPkgivRfG+a8uAXGTIbA==
 
-prismic-dom@^2.2.5:
-  version "2.2.5"
-  resolved "https://registry.yarnpkg.com/prismic-dom/-/prismic-dom-2.2.5.tgz#0aaa41c436d95c0126af971a053d2ef803b7937b"
-  integrity sha512-GafsY6sGet5EAWNG2w/qXaxgitU74yhEu/0vZEnwOt6PJgCClLmMkDzJHBpdl+wuEWqUhvkFMDUFPHSPwSVmKQ==
+prismic-dom@^2.2.6:
+  version "2.2.7"
+  resolved "https://registry.yarnpkg.com/prismic-dom/-/prismic-dom-2.2.7.tgz#a4d36cc4fc92b84f8b46e5a515513c07b5f2f43e"
+  integrity sha512-4rJWzBqq/6h15giAzB6L8+eaWLQJrQcM4EAicmtw3mI8DhussbJOgheTeFtTCgvO7e5QEjZA0he5gEbQYfKGmg==
   dependencies:
     "@prismicio/helpers" "^1.0.4"
     "@prismicio/richtext" "^1.1.0"
