@@ -21,7 +21,7 @@
     "@heroicons/vue": "^2.0.13",
     "@nuxtjs/auth": "^4.9.1",
     "@nuxtjs/axios": "^5.12.2",
-    "@nuxtjs/prismic": "^1.2.4",
+    "@nuxtjs/prismic": "^1.4.2",
     "@nuxtjs/proxy": "^2.0.1",
     "@nuxtjs/pwa": "^3.0.2",
     "@nuxtjs/toast": "^3.3.1",
