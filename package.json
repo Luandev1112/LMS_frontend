@@ -41,7 +41,7 @@
     "nuxt-i18n": "^6.15.4",
     "ol": "^7.1.0",
     "postcss-import": "^15.0.0",
-    "postcss-nested": "^5.0.5",
+    "postcss-nested": "^6.0.0",
     "vee-validate": "^4.7.2",
     "vue-clickaway": "^2.2.2",
     "vue-meta": "^2.4.0",
