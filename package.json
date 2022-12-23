@@ -39,7 +39,7 @@
     "moment": "^2.29.4",
     "nuxt": "^2.14.6",
     "nuxt-i18n": "^6.28.1",
-    "ol": "^7.1.0",
+    "ol": "^7.2.2",
     "postcss-import": "^15.1.0",
     "postcss-nested": "^6.0.0",
     "vee-validate": "^4.7.3",
